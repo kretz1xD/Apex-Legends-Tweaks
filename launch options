@@ -1,1 +1,1 @@
-+exec autoexec
++exec autoexec.cfg -forcenovsync -fullscreen -dev -m_rawinput 1 -novid -preload

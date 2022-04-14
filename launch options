@@ -1,1 +1,1 @@
-+exec autoexec.cfg -forcenovsync -fullscreen -dev -m_rawinput 1 -preload
++exec autoexec.cfg -forcenovsync -dev -m_rawinput 1 +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0 +building_cubemaps "1"

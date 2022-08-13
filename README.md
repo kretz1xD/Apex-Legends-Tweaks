@@ -1,9 +1,7 @@
-I am a day one player and got into tweaks and configs instantly, ever since then I started this hobby of mine.
+![DMjKiNQ](https://user-images.githubusercontent.com/52638857/184466392-c71a5358-0c06-493c-9e63-23a88f83b890.png)
 
-I've been Apex Predator 4 times (1 time solo que) Number #20 Predator in Season 5 KC split.
+**I've been Apex Predator 4 times (1 time solo que) Season 5 #20 Predator (Started the split 2 weeks after everyone).**
 
 This will help you with fps, latency and audio.
-If you want to support my work: https://1upcoin.com/donate/kretz1xd
 
-OS I am using https://www.revi.cc/
-#BAT TO THE MOON
+👉 https://nowpayments.io/donation/kretz1xD ❤

@@ -4,4 +4,4 @@
 
 This will help you with fps, latency and audio.
 
-👉 https://nowpayments.io/donation/kretz1xD ❤
+**Follow me on my socials https://linktr.ee/kretz1xD**

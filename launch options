@@ -1,1 +1,1 @@
-+exec autoexec.cfg -dev -m_rawinput +building_cubemaps 1
++exec autoexec.cfg -dev -high

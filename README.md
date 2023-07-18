@@ -8,7 +8,7 @@ This will help you with fps, latency and audio.
 
 first of all I must say that you should try
 👇🏻👇🏻👇🏻👇🏻
-[ReviOS]((https://www.revi.cc/revios))
+[ReviOS](https://www.revi.cc/revios)
 
 [A slightly better way to overclock and tweak your Nvidia GPU](https://anonfiles.com/Gbi8J1M0yf/Calypto_s_Latency_Guide_pdf)
 

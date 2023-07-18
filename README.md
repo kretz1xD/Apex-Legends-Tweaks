@@ -5,7 +5,6 @@
 *You guys could always contact me on discord or twitter if you want more in-dept optimaztion*
 
 This will help you with fps, latency and audio.
-
 **Follow me on my socials https://linktr.ee/kretz1xD**
 
 First of all I must say that you should try this OS

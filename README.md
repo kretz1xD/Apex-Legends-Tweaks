@@ -1,12 +1,9 @@
 ![DMjKiNQ](https://user-images.githubusercontent.com/52638857/184466392-c71a5358-0c06-493c-9e63-23a88f83b890.png)
 
 **I've been Apex Predator 5 times S2/S3 (1 time solo que) Season 5 #20 Predator (Started the split 3,5 week after everyone).**
-
-*You guys could always contact me on discord or twitter if you want more in-dept optimaztion*
-
-This will help you with fps, latency and audio.
 Follow me on my socials https://linktr.ee/kretz1xD
 
+This will help you with fps, latency and audio.
 First of all I must say that you should try this OS
 
 - Useful guides below including Memory Cleaner which clears your memory, i suggest that you press "F10" when you load into a game ![xD](https://i.imgur.com/4vLIkwu.png)

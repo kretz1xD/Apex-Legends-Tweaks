@@ -1,21 +1,20 @@
 ![DMjKiNQ](https://user-images.githubusercontent.com/52638857/184466392-c71a5358-0c06-493c-9e63-23a88f83b890.png)
 
-**I've been Apex Predator 4 times S2/S3 (1 time solo que) Season 5 #20 Predator (Started the split 3,5 week after everyone).**
+**I've been Apex Predator 5 times S2/S3 (1 time solo que) Season 5 #20 Predator (Started the split 3,5 week after everyone).**
 
 *You guys could always contact me on discord or twitter if you want more in-dept optimaztion*
 
 This will help you with fps, latency and audio.
-**Follow me on my socials https://linktr.ee/kretz1xD**
+Follow me on my socials https://linktr.ee/kretz1xD
 
 First of all I must say that you should try this OS
 
+- Useful guides below including Memory Cleaner which clears your memory, i suggest that you press "F10" when you load into a game ![xD](https://i.imgur.com/4vLIkwu.png)
 
 [ReviOS](https://www.revi.cc/revios)
 
-- useful guides below including memory cleaner which helps with your HPET and clears/cleans all of your memory by pressing "F10" ![xD](https://i.imgur.com/4vLIkwu.png)
+[A slightly better way to overclock and tweak your Nvidia GPU](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/edit)
 
-[A slightly better way to overclock and tweak your Nvidia GPU](https://anonfiles.com/Gbi8J1M0yf/Calypto_s_Latency_Guide_pdf)
+[Calypto's Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)
 
-[Calypto's Latency Guide](https://anonfiles.com/H8i9J9M8y3/A_slightly_better_way_to_overclock_and_tweak_your_Nvidia_GPU_pdf)
-
-[Memory Cleaner](https://anonfiles.com/idh8J2Mdy3/Memory_Cleaner_7z)
+[Memory Cleaner](https://mega.nz/file/LfJFlTDK#CB3fPPC14C4Jf3dpY9rDXdbdjEgFD3cDKSwKT14UoRY)

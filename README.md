@@ -8,6 +8,14 @@ First of all I must say that you should try this OS
 
 ## Useful Optimization Guides
 
+**My favorite DePIN projects – use my referral links!**
+
+- [**Gradient** – Airdrop possibly Q3, $10M RAISED](https://app.gradient.network/signup?code=G3J2WD)
+- [**Grass** – $4.5M RAISED](https://app.grass.io/register?referralCode=u5khNQf2rAmFazd)
+- [**Nodepay** – $7.00M RAISED](https://app.nodepay.ai/register?ref=jDywZjLaAi7MJhf)
+
+
+
 ### Memory Cleaner
 Press "F10" when you load into a game to clear your memory for smoother performance.  
 ![Memory Cleaner](https://i.imgur.com/4vLIkwu.png)  

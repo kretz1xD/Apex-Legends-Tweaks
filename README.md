@@ -10,9 +10,11 @@ First of all I must say that you should try this OS
 
 **My favorite DePIN projects – use my referral links!**
 
-- [**Gradient** – Airdrop possibly Q3, $10M RAISED](https://app.gradient.network/signup?code=G3J2WD)
-- [**Grass** – $4.5M RAISED](https://app.grass.io/register?referralCode=u5khNQf2rAmFazd)
+- [**DataHive AI** – $3.5M RAISED](https://datahive.ai?invite=v36etr9)
+- [**Browser Cash** – $1M RAISED](https://app.browser.cash/install?ref=qdsuebu3)
+- [**Grass** – $14.5M RAISED](https://app.grass.io/register?referralCode=u5khNQf2rAmFazd)
 - [**Nodepay** – $7.00M RAISED](https://app.nodepay.ai/register?ref=jDywZjLaAi7MJhf)
+- [**DAWN** - $45M RAISED **USE CODE: hznvxikv**](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp?hl=en)
 
 
 

@@ -16,6 +16,36 @@ First of all I must say that you should try this OS
 - [**Nodepay** – $7.00M RAISED](https://app.nodepay.ai/register?ref=jDywZjLaAi7MJhf)
 - [**DAWN** - $45M RAISED **USE CODE: hznvxikv**](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp?hl=en)
 
+# Custom Resolution Setup Guide
+
+## NVIDIA Control Panel Configuration
+
+1. Open NVIDIA Control Panel
+2. Go to **Display > Change Resolution**
+3. Click **Customize > Create Custom Resolution**
+4. Set **Horizontal pixels** to 1440/1920 and **Vertical lines** to 1080/1440
+5. Click **Test**
+
+## Configure Scaling
+
+1. In NVIDIA Control Panel, go to **Adjust Desktop Size and Position**
+2. Select **Full Screen** and set "Perform scaling on" to **GPU**
+
+## Edit videoconfig.txt
+
+1. Navigate to `C:\Users\<User>\Saved Games\Respawn\Apex\local`
+2. Open `videoconfig.txt` and change `setting.defaultresheight` and `setting.defaultreswidth` to your custom values (e.g., 1440x1080)
+3. Save, close, and set the file to **Read-only** via Properties
+
+## Add Launch Options (Steam)
+
+1. Right-click Apex Legends in Library, select **Properties**
+2. Add: `+building_cubemaps 1 +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0`
+
+## Common Stretched Resolutions
+
+- **4:3**: 1440×1080 or 1920x1440 (Best quality/stretch balance) 
+- **16:10**: 1728×1080
 
 
 ### Memory Cleaner

@@ -3,12 +3,20 @@
 **I've been Apex Predator 5 times S2/S3 (1 time solo que) Season 5 #20 Predator (Started the split 3,5 week after everyone).**
 Follow me on my socials https://linktr.ee/kretz1xD
 
+
+I almost never get anything from someone, much appriciated if you would donate small-med-large sums. you'll always have a special place to my heart!
+My 32 birthday this upcoming Friday the 17. You can donate crypto like Solana, Bitcoin, BTC, ETH, LTC, TON & also USDT is available, both Solana and ETH works!
+THANK YOU GUYS!!!
+ [**CRYPTOCURRENCY DONATIONS**](https://nowpayments.io/donation/kretz1xD)
+ 
 This will help you with fps, latency and audio.
-First of all I must say that you should try this OS
+First of all I must say that you should try this OS called ReviOS, link below!
 
 ## Useful Optimization Guides
 
 **My favorite DePIN projects – use my referral links!**
+
+
 
 - [**DataHive AI** – $3.5M RAISED](https://datahive.ai?invite=v36etr9)
 - [**Browser Cash** – $1M RAISED](https://app.browser.cash/install?ref=qdsuebu3)
@@ -65,5 +73,7 @@ Step-by-step guide on safely overclocking your Nvidia GPU for better performance
 
 ---
 
+
 ### [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)  
 Optimize your system for the lowest possible latency to gain a competitive edge.
+

@@ -3,11 +3,7 @@
 **I've been Apex Predator 5 times S2/S3 (1 time solo que) Season 5 #20 Predator (Started the split 3,5 week after everyone).**
 Follow me on my socials https://linktr.ee/kretz1xD
 
-
-I almost never get anything from someone, much appriciated if you would donate small-med-large sums. you'll always have a special place to my heart!
-My 32 birthday this upcoming Friday the 17. You can donate crypto like Solana, Bitcoin, BTC, ETH, LTC, TON & also USDT is available, both Solana and ETH works!
-THANK YOU GUYS!!!
- [**CRYPTOCURRENCY DONATIONS**](https://nowpayments.io/donation/kretz1xD)
+ [**CRYPTOCURRENCY DONATIONS**](https://nowpayments.io/donation/kretz1xD) 
  
 This will help you with fps, latency and audio.
 First of all I must say that you should try this OS called ReviOS, link below!

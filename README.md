@@ -64,13 +64,14 @@ Less than 0.5% of the size of Discord's original (~9MB > ~36KB)
 
 
 ### Memory Cleaner
-Press "F10" when you load into a game to clear your memory for smoother performance.  
+**Press "F10" when you load into a game to clear your memory for smoother performance!**
+
 ![Memory Cleaner](https://i.imgur.com/4vLIkwu.png)  
 [Download Memory Cleaner](https://mega.nz/file/LfJFlTDK#CB3fPPC14C4Jf3dpY9rDXdbdjEgFD3cDKSwKT14UoRY)
 
 ---
 
-### [ReviOS](https://www.revi.cc/revios)  
+### [ReviOS](https://www.revi.cc)
 A lightweight and performance-tuned version of Windows designed to reduce latency and stutters in games.
 
 ---

@@ -5,13 +5,12 @@ Follow me on my socials https://linktr.ee/kretz1xD
 
  [**CRYPTOCURRENCY DONATIONS**](https://nowpayments.io/donation/kretz1xD) 
  
-This will help you with fps, latency and audio.
+This will help you with fps, input latency and audio.
 First of all I must say that you should try this OS called ReviOS, link below!
 
 ## Useful Optimization Guides
 
 **My favorite DePIN projects – use my referral links!**
-
 
 
 - [**DataHive AI** – $3.5M RAISED](https://datahive.ai?invite=v36etr9)
@@ -50,6 +49,18 @@ First of all I must say that you should try this OS called ReviOS, link below!
 
 - **4:3**: 1440×1080 or 1920x1440 (Best quality/stretch balance) 
 - **16:10**: 1728×1080
+
+### OpenAsar
+[OpenAsar](https://openasar.dev/) *(A rewrite of part of Discord's desktop code, making it faster and including more features)*
+
+**Fast Startup**
+Speeds up Discord's startup time by 2-4x
+
+**Snappy Experience**
+Makes your client feel snappier for scrolling, switching channels, and more
+
+**Small Size**
+Less than 0.5% of the size of Discord's original (~9MB > ~36KB)
 
 
 ### Memory Cleaner

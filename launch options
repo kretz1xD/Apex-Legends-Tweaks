@@ -1,1 +1,1 @@
-+exec autoexec.cfg -dev -high
++exec autoexec.cfg +cl_is_softened_locale 1 +cl_ragdoll_collide 0 +r_drawparticles 0 -no_render_on_input_thread -dev -novid +fps_max 0 +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0 +building_cubemaps "1

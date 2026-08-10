@@ -62,8 +62,15 @@ Makes your client feel snappier for scrolling, switching channels, and more
 **Small Size**
 Less than 0.5% of the size of Discord's original (~9MB > ~36KB)
 
-### •  NVIDIA Control Panel (for Apex): Low Latency Mode → Ultra Power management → Prefer maximum performance Texture filtering – Quality → High Performance
-### In-game: NVIDIA Reflex → Enabled + Boost V-Sync → Off Adaptive Resolution → 0
+### NVIDIA Control Panel (for Apex)
+- **Low Latency Mode** → Ultra  
+- **Power management mode** → Prefer maximum performance  
+- **Texture filtering - Quality** → High Performance  
+
+### In-game Settings
+- **NVIDIA Reflex** → Enabled + Boost  
+- **V-Sync** → Off  
+- **Adaptive Resolution FPS Target** → 0  
 
 
 ### Memory Cleaner

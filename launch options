@@ -1,1 +1,1 @@
--dev +exec autoexec.cfg +mat_letterbox_aspect_min 1.0 +cl_is_softened_locale 1 +cl_ragdoll_collide 0 +mat_compressedtextures 1 +r_drawparticles 0 -no_render_on_input_thread 0 +building_cubemaps
+-dev +exec autoexec.cfg +mat_letterbox_aspect_min 1.0 +cl_is_softened_locale 1 +cl_ragdoll_collide 0 +mat_compressedtextures 1 +r_drawparticles 0 -no_render_on_input_thread 0 +building_cubemaps 1

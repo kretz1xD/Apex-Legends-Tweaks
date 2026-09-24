@@ -4,9 +4,6 @@
 Follow me on my socials https://linktr.ee/kretz1xD
 
  [**CRYPTOCURRENCY DONATIONS**](https://nowpayments.io/donation/kretz1xD) 
- 
-# This will help you with fps, input latency and audio.
-# First of all I must say that you should try this OS called ReviOS, link below!
 
 ## Custom Resolution Setup Guide 
 

@@ -5,21 +5,10 @@ Follow me on my socials https://linktr.ee/kretz1xD
 
  [**CRYPTOCURRENCY DONATIONS**](https://nowpayments.io/donation/kretz1xD) 
  
-This will help you with fps, input latency and audio.
-First of all I must say that you should try this OS called ReviOS, link below!
+# This will help you with fps, input latency and audio.
+# First of all I must say that you should try this OS called ReviOS, link below!
 
-## Useful Optimization Guides
-
-**My favorite DePIN projects – use my referral links!**
-
-
-- [**DataHive AI** – $3.5M RAISED](https://datahive.ai?invite=v36etr9)
-- [**Browser Cash** – $1M RAISED](https://app.browser.cash/install?ref=qdsuebu3)
-- [**Grass** – $14.5M RAISED](https://app.grass.io/register?referralCode=u5khNQf2rAmFazd)
-- [**Nodepay** – $7.00M RAISED](https://app.nodepay.ai/register?ref=jDywZjLaAi7MJhf)
-- [**DAWN** - $45M RAISED **USE CODE: hznvxikv**](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp?hl=en)
-
-# Custom Resolution Setup Guide
+## Custom Resolution Setup Guide 
 
 ## NVIDIA Control Panel Configuration
 
@@ -71,6 +60,22 @@ Less than 0.5% of the size of Discord's original (~9MB > ~36KB)
 - **NVIDIA Reflex** → Enabled + Boost  
 - **V-Sync** → Off  
 - **Adaptive Resolution FPS Target** → 0  
+
+
+### [Process Lasso Pro](https://bitsum.com/download-process-lasso/)
+The best tool to control CPU priorities, affinities, power plans and background processes.  
+Greatly reduces stutters and keeps Apex prioritized over everything else.
+
+**Recommended settings for Apex Legends:**
+- Enable **ProBalance** + **Bitsum Highest Performance** power plan
+- Enable **Performance Mode** (automatic game detection)
+- For `start_protected_game.exe`, `r5apex.exe` and `r5apex_dx12.exe`:
+  - CPU Priority → **High** (use “Enforce by Registry”)
+  - I/O Priority → **High**
+  - Exclude from ProBalance → **Always**
+  - Induce Performance Mode → **Always**
+  - Efficiency Mode → **Off**
+- Optional: Test disabling Core 0 or SMT (physical cores only) if you still have stutters
 
 
 ### Memory Cleaner
